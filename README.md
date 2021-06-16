@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on edtech startup
+- 🔭 I’m currently working with an edtech startup
 - 🌱 I’m currently learning Kotlin/RealmDB
 - 👯 I’m looking to collaborate on any startup around education, agriculture and governance
 - 💬 Ask me about web development
