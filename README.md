@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on any startup around education, agriculture and governance
 - 💬 Ask me about web development
 - 📫 How to reach me: Twitter/@ConstantFiber, Instagram/@constant.fiber
-- ⚡ Fun fact: My first github repo is still blank.
+- ⚡ Fun fact: "You can’t hum while holding your nose closed."
 
 <!--
 **FiresideCode/FiresideCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
