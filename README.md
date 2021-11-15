@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with an edtech startup
-- 🌱 I’m currently learning Kotlin/RealmDB
-- 👯 I’m looking to collaborate on any startup around education, agriculture and governance
 - 💬 Ask me about web development
 - 📫 How to reach me: Twitter/@ConstantFiber, Instagram/@constant.fiber
 - ⚡ Fun fact: "You can’t hum while holding your nose closed."
